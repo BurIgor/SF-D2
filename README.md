@@ -12,3 +12,6 @@
 http://localhost:8081/success - возвращает 200  
 
 http://localhost:8081/fail - возвращает 500, в sentry передается сообщение об ошибке.  
+
+
+Кроме того, проверить работу программы можно здесь:  https://murmuring-inlet-05721.herokuapp.com/
